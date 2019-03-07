@@ -12,4 +12,4 @@ This is basically an app for serveices in Botswana. This is also a good opportun
 4. Make your changes using the following commands - "git add ."   "git commit -m 'commit message'"    "git push origin branch-name".
 5. Create a New Pull Request from your forked repository.
 6. Comment on the issue using the given format - "Name-AppName-PullRequestId".
-7. Wait for your PR review and merge approval!
+
