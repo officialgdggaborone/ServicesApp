@@ -1,5 +1,5 @@
 # ServicesApp
-This is basically an app for serveices in Botswana. This is also a good opportunity to learn Kotlin. You will need the following;
+This is basically an app for services in Botswana. This is also a good opportunity to learn Kotlin. You will need the following;
 
 1. Android Studio 3.3.1 or later
 2. Kotlin version 1.3.0 or later
