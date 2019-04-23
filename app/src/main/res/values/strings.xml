@@ -17,14 +17,12 @@
     <string name="error_incorrect_password">This password is incorrect</string>
     <string name="error_field_required">This field is required</string>
     <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
-    <string name="facebook_app_id">2231306383598245</string>
+   
     <string name="fb_login_protocol_scheme">fb2231306383598245</string>
     <string name="signed_out">Signed Out</string>
     <string name="sign_out">Sign Out</string>
     <string name="facebook_status_fmt">Facebook User: %s</string>
     <string name="firebase_status_fmt">Firebase User: %s</string>
-    <string name="firebase_api_key">116180548122-fis3ap02db29n1jr18fqtr33javtv7sf.apps.googleusercontent.com</string>
-    <string name="google_console_web_key">116180548122-fis3ap02db29n1jr18fqtr33javtv7sf.apps.googleusercontent.com</string>
-    <string name="google_console_android_key">116180548122-9ra87cgkhqji81c5tf9qshamis4o76pj.apps.googleusercontent.com</string>
+  
 
 </resources>
